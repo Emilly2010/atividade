@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(92, 81, 65);
+    color: rgb(19, 16, 14);
+    padding-block: 25px;
+    font-family: cursive;
+    font-size: 20px;
+  
+}
+
+div {
+    background-color: rgb(63, 56, 45);
+    width: 800px;
+    padding: 20px;
+    margin-inline: auto;
+    border-radius: 15px;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(10, 24, 21);
+    font-size: 60px;
+    font-family: serif;
+}
+
+img {
+    width: 100%;
+   
+}
+
+h2 {
+    color: rgb(34, 13, 1);
+    font-family: cursive;
+}
+
+::marker {
+
+     color: rgb(34, 13, 1);
+}
